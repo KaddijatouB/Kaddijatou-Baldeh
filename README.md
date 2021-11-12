@@ -1,7 +1,7 @@
 # Kaddijatou Baldeh
 
 ## Degree: Computer Science
-## Hobby: Sewing nad craft
+## Hobby: Sewing and craft
 
 ## Description - I am currently a Junior at SPU pursuing a Computer Science Degree.
 
