@@ -3,7 +3,7 @@
 ### Degree: Computer Science
 ### Hobby: Sewing and craft
 
-### Description - I am currently a Junior at Seattle Pacific University pursuing a Computer Science Degree.
+### About me - I am currently a Junior at Seattle Pacific University pursuing a Computer Science Degree.
 
 ### [LinkedIn](www.linkedin.com/in/kaddijatou-baldeh-38817181)
 
